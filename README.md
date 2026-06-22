@@ -2,11 +2,28 @@
 
 This repository is currently initialized as a safe workspace for compliant code review and security-fix work.
 
+## What This Repository Shows
+
+- A compliant workflow for defensive code review and security-fix work.
+- Repository setup materials for safe collaboration.
+- Templates for pull requests, issue intake, and audit notes.
+- Clear boundaries for legal, authorized work.
+
 ## Current Status
 
 - Repository scope has been registered locally in `bounty/authorized_projects.md`.
 - No application source code has been added yet.
 - No bounty program rules, HackerOne scope, or reward terms have been provided yet.
+
+## Available Materials
+
+- [Services](SERVICES.md)
+- [Security policy](SECURITY.md)
+- [Contributing guide](CONTRIBUTING.md)
+- [Safe audit template](docs/safe-audit-template.md)
+- [Pull request template](.github/PULL_REQUEST_TEMPLATE.md)
+- [Security fix issue template](.github/ISSUE_TEMPLATE/security-fix.md)
+- [Audit task issue template](.github/ISSUE_TEMPLATE/audit-task.md)
 
 ## Workflow
 
