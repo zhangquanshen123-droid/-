@@ -2,6 +2,8 @@
 
 This repository documents legal, defensive, and reviewable security-adjacent development services.
 
+Start here: [Quick start for buyers](docs/quick-start-for-buyers.md)
+
 ## Available Work
 
 ### Repository Setup

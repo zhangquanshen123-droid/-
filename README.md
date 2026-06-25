@@ -1,6 +1,21 @@
-# zhangquanshen123-droid/-
+# Legal GitHub Repository Services
 
-This repository is currently initialized as a safe workspace for compliant code review and security-fix work.
+Small, fixed-scope GitHub help for repository cleanup, security documentation, GitHub Actions fixes, and defensive code review.
+
+Portfolio and workflow repository: `zhangquanshen123-droid/-`.
+
+## Fast Offers
+
+| Offer | Best for | Typical scope |
+| --- | --- | --- |
+| Repository Cleanup | New or messy GitHub repositories | README, SECURITY.md, issue template, PR template |
+| GitHub Actions Fix | One failing CI workflow | Root cause, YAML/config patch, validation notes |
+| Defensive Review Lite | One small PR or module | Bug notes, test gaps, safe hardening suggestions |
+| Security Documentation Pack | Projects needing disclosure process | SECURITY.md, intake template, maintainer checklist |
+
+To request work, open a GitHub issue using the service request template:
+
+[Open a service request](../../issues/new?template=service-request.md)
 
 ## What This Repository Shows
 
@@ -9,16 +24,17 @@ This repository is currently initialized as a safe workspace for compliant code 
 - Templates for pull requests, issue intake, and audit notes.
 - Clear boundaries for legal, authorized work.
 
-## Current Status
+## Status
 
-- Repository scope has been registered locally in `bounty/authorized_projects.md`.
-- No application source code has been added yet.
-- No bounty program rules, HackerOne scope, or reward terms have been provided yet.
+- This repository is a service portfolio and workflow example.
+- Work starts only after scope, authorization, deliverable, deadline, and payment terms are clear.
+- No unauthorized security testing, exploit development, spam, or payment-account operation.
 
 ## Available Materials
 
 - [Services](SERVICES.md)
 - [Service packages](docs/service-packages.md)
+- [Quick start for buyers](docs/quick-start-for-buyers.md)
 - [Security policy](SECURITY.md)
 - [Contributing guide](CONTRIBUTING.md)
 - [Safe audit template](docs/safe-audit-template.md)
@@ -30,11 +46,11 @@ This repository is currently initialized as a safe workspace for compliant code 
 
 ## Workflow
 
-1. Add or link the source code that should be reviewed.
-2. Add the relevant security program rules or issue link.
-3. Create a focused task in the local bounty ledger.
-4. Perform defensive review only within the authorized scope.
-5. Submit fixes through normal GitHub pull request review.
+1. Share a repository, issue, PR, or workflow link.
+2. Confirm authorization and expected deliverable.
+3. Agree on budget, deadline, and whether a public PR is acceptable.
+4. Receive a focused patch, review notes, or documentation update.
+5. Validate the result with clear handoff notes.
 
 ## Safety Boundaries
 
