@@ -18,6 +18,7 @@ This repository is currently initialized as a safe workspace for compliant code 
 ## Available Materials
 
 - [Services](SERVICES.md)
+- [Service packages](docs/service-packages.md)
 - [Security policy](SECURITY.md)
 - [Contributing guide](CONTRIBUTING.md)
 - [Safe audit template](docs/safe-audit-template.md)

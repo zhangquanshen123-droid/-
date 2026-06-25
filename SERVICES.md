@@ -12,6 +12,8 @@ This repository documents legal, defensive, and reviewable security-adjacent dev
 - `.gitignore` setup
 - Basic contributor workflow documentation
 
+See [service packages](docs/service-packages.md) for suggested fixed-scope offers.
+
 ### Defensive Code Review
 
 - Small-scope source review
