@@ -39,6 +39,7 @@ To request work, open a GitHub issue using the service request template:
 - [Contributing guide](CONTRIBUTING.md)
 - [Safe audit template](docs/safe-audit-template.md)
 - [Client outreach template](docs/client-outreach.md)
+- [Chinese promo copy](docs/chinese-promo.md)
 - [Gig listing templates](docs/gig-listings.md)
 - [Pull request template](.github/PULL_REQUEST_TEMPLATE.md)
 - [Security fix issue template](.github/ISSUE_TEMPLATE/security-fix.md)
