@@ -23,6 +23,7 @@ This repository is currently initialized as a safe workspace for compliant code 
 - [Contributing guide](CONTRIBUTING.md)
 - [Safe audit template](docs/safe-audit-template.md)
 - [Client outreach template](docs/client-outreach.md)
+- [Gig listing templates](docs/gig-listings.md)
 - [Pull request template](.github/PULL_REQUEST_TEMPLATE.md)
 - [Security fix issue template](.github/ISSUE_TEMPLATE/security-fix.md)
 - [Audit task issue template](.github/ISSUE_TEMPLATE/audit-task.md)
